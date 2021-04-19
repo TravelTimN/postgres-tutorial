@@ -16,7 +16,8 @@
       "**/core.Microsoft*": true,
       "**/core.mongo*": true,
       "**/core.python*": true,
-      "**/CVS": true
+      "**/CVS": true,
+      "**/.vscode/": true
    },
    "files.autoSave": "off",
    "workbench.colorTheme": "Visual Studio Dark",
