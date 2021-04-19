@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Welcome Tim Nelson,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
 
@@ -25,6 +25,8 @@ In Gitpod you have superuser security privileges by default. Therefore you do no
 ## Updates Since The Instructional Video
 
 We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+
+**April 19 2021:** Migrations from .theia/ to .vscode/, removal of Prettier extension being replaced with Beautify extension (`alt + shift + F`).
 
 **January 13 2021:** Add PostgreSQL server, remove legacy code. New version for Programme 3.0.
 
