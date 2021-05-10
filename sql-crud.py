@@ -84,7 +84,7 @@ tim_nelson = Programmer(
     first_name="Tim",
     last_name="Nelson",
     gender="M",
-    nationality="Irish",
+    nationality="Irish-American",
     famous_for="Code Institute"
 )
 
